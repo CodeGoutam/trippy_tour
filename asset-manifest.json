@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trippy_tour/static/css/main.f092468e.css",
+    "main.js": "/trippy_tour/static/js/main.f0467990.js",
+    "index.html": "/trippy_tour/index.html",
+    "main.f092468e.css.map": "/trippy_tour/static/css/main.f092468e.css.map",
+    "main.f0467990.js.map": "/trippy_tour/static/js/main.f0467990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f092468e.css",
+    "static/js/main.f0467990.js"
+  ]
+}
