@@ -73,6 +73,19 @@ button:hover {
   font-size: 1.5rem;
   color: #222;
 }
+.signLink{
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: .3rem;
+    text-decoration: none;
+    color: black;
+    background-color: wheat;
+}
+.signLink:hover{
+    color: white;
+    background-color:rgb(100, 100, 600);
+}
 @media screen and (max-width: 850px) {
   .menu-icons {
     display: block;

@@ -4,6 +4,7 @@ import { Home } from "./routes/Home";
 import { Service } from "./routes/Service";
 import { About } from "./routes/About";
 import { Contact } from "./routes/Contact";
+import { Sign } from "./routes/Sign";
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,8 @@ function App() {
         <Route path="/service" Component={Service} />
         <Route path="/about" Component={About} /> 
         <Route path="/contact" Component={Contact} />
+        <Route path="/sign" Component={Sign} />
+
       </Routes>
     </div>
   );
